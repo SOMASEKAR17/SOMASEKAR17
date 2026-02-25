@@ -42,4 +42,4 @@ Optimized backend latency by ~40% using FastAPI
 ### 🧠 Philosophy
 
 > Code. Measure. Optimize. Repeat.  
-> Build systems that scale — not just features that work.
+> Build systems that scale, not just features that work.
