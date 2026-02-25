@@ -22,10 +22,9 @@ Optimized backend latency by ~40% using FastAPI
 
 ### 🎧 Currently Coding To
 
-
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t5dbcqgmgabbnxhobodakwd42q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mfmep4mrawirbf35c2rbze323y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mfmep4mrawirbf35c2rbze323y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 
