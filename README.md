@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somasekar Naidu</h1>
+<h3 align="center"><a href="https://somasekar.vercel.app/">PORTFOLIO</a></h3>
 <h3 align="center">Building systems. Exploring ML. Side quests > main quests.</h3>
 
 <p align="center">
