@@ -8,7 +8,7 @@
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 
 #### 🔹 FintechX  
 Full-stack financial platform with AI assistant, JWT auth, protected routes  
@@ -20,7 +20,7 @@ Optimized backend latency by ~40% using FastAPI
 
 ---
 
-### 🎧 Currently Coding To
+### Currently Coding To
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31mfmep4mrawirbf35c2rbze323y&redirect=true">
@@ -30,7 +30,7 @@ Optimized backend latency by ~40% using FastAPI
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=somasekar17&theme=tokyonight" />
@@ -38,7 +38,7 @@ Optimized backend latency by ~40% using FastAPI
 
 ---
 
-### 🧠 Philosophy
+### Philosophy
 
 > Code. Measure. Optimize. Repeat.  
 > Build systems that scale, not just features that work.
