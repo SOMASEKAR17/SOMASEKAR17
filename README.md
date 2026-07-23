@@ -10,13 +10,21 @@
 
 ### Featured Projects
 
-#### 🔹 FintechX  
-Full-stack financial platform with AI assistant, JWT auth, protected routes  
-Tech: React, MongoDB, Express, Node, Flask  
+#### 🔹 [Power BI Version Summarizer](https://github.com/SOMASEKAR17/powerBI-version-summarizer)
+A CLI and PR-validation tool that compares Power BI PBIP projects across semantic models, report definitions, and layouts.  
+**Tech:** Python, PBIP/TMDL, GitHub Actions, optional AI summaries  
 
-#### 🔹 Crowder.AI  
-AI simulation platform supporting 100+ concurrent virtual agents  
-Optimized backend latency by ~40% using FastAPI  
+#### 🔹 [AirGPU](https://github.com/SOMASEKAR17/AirGPU)
+A distributed-compute desktop platform: submit Python jobs, execute them in Docker on contributor machines, and stream logs live.  
+**Tech:** Electron, FastAPI, WebSockets, Docker, Python  
+
+#### 🔹 [FallOut V.A.T.S. System](https://github.com/SOMASEKAR17/FallOut-V.A.T.S-system)
+A computer-vision experience inspired by Fallout’s V.A.T.S., with live pose detection, segmentation, and interactive body-part targeting.  
+**Tech:** Python, MediaPipe, OpenCV  
+
+#### 🔹 [Crowder](https://github.com/SOMASEKAR17/Crowder)
+An AI-powered virtual focus group that validates product ideas through agentic customer personas and structured feedback.  
+**Tech:** React, FastAPI, Firebase, Gemini API  
 
 ---
 
